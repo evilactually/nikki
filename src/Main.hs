@@ -2,7 +2,9 @@
 module Main where
 
 
-import qualified Top.Main
+-- import qualified Top.Main
 
 
-main = Top.Main.main
+-- main = Top.Main.main
+
+main = putStrLn "C'est bien."
